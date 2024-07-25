@@ -1,0 +1,15 @@
+.btn:hover{
+    color:white;
+    background-color: red;
+
+}
+
+.btn{
+    border-radius: 0px;
+}
+
+hr{
+    width: 50px;
+    
+}
+
